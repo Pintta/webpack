@@ -17,4 +17,4 @@ dependencies {
 
 webpack_config 'webpack.prod.js'
 ```
-# Keep in mind FXServer is limited to fork of Node.js 16.9 so you WILL run into dependency issues when installing the latest and greatest stuff that might depend on Node.js 16.10+
+Keep in mind FXServer is limited to fork of Node.js 16.9 so you WILL run into dependency issues when installing the latest and greatest stuff that might depend on Node.js 16.10+
