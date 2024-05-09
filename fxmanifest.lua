@@ -1,4 +1,5 @@
 fx_version 'cerulean'
 game 'common'
+lua54 'yes'
 dependency 'yarn'
 server_script 'webpack_builder.js'
